@@ -1,0 +1,63 @@
+
+body {
+    background-image: url("../img/preview3 modif.png");
+
+}
+.container {
+    width: 100%;
+}
+.row {
+    height: auto;
+}
+.parent{
+    position: relative;
+    text-align: center;
+}
+.nuage{
+    background-image: url("../img/forme-nuage.png");
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+.up{
+  margin-top: 30px;
+}
+.down {
+  margin-top: 33px;
+}
+.col-md-4{
+    text-align: center;
+}
+.inputup {
+    font-weight: bold;
+    color: #083755;
+    display: block;
+    width: 190px;
+    margin: 60px auto 0 auto;
+}
+.selectpicker{
+    font-weight: bold;
+    color: #083755;
+    display: block;
+    width: 190px;
+    margin: 60px auto 0 auto;
+
+}
+#rechercher {
+    text-align: center;
+    margin-top: -0.9vw;
+    background-color: #083755;
+    width: 15vw;
+    height: 2.7vw;
+    margin-left: 42vw;
+    font-weight: bold;
+    font-size: 1vw;
+    border-radius: 10px;
+}
+h1 {
+    font-weight: bold;
+    color: #083755;
+    line-height: 250px;
+}
